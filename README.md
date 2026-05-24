@@ -1,4 +1,9 @@
-## Hi there 👋
+# 💫 Timo Anschperger, About me
+I am a software engineering student at **42 Wolfsburg**. <br>I trying to learn as much as I can and always acquire new skills
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TIAN3107&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>Feel free to contact me preferably on LinkedIn https://www.linkedin.com/in/timo-anschperger/
+---
 
 <!--
 **TIAN3107/TIAN3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
