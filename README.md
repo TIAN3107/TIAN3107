@@ -9,7 +9,7 @@ I am a software engineering student at **42 Wolfsburg**. <br>I trying to learn a
 
 Currently working on **webserv** – a C++ HTTP server built with sockets and epoll.
 
-- **cpps** – The 42 C++ modules, thousands of lines of code covering many computer science concepts (OOP, inheritance, templates, containers, casting, exceptions)
+- **cpps** – The 42 C++ modules, thousands of lines of code covering many computer science concepts (OOP, inheritance, templates, containers, casting, exceptions)(currently private)
 - **cub3d** – A raycasting 3D engine in C, written with pretty efficient code
 - **minishell** – A Unix shell recreation with all its complexities (parsing, pipes, redirections, signals, process management)
 - **philosophers** – Dining philosophers problem, very efficient multithreading implementation exploring concurrency concepts
