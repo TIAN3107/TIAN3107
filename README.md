@@ -14,7 +14,7 @@ Currently working on **webserv** – a C++ HTTP server built with sockets and ep
 - **minishell** – A Unix shell recreation with all its complexities (parsing, pipes, redirections, signals, process management)
 - **philosophers** – Dining philosophers problem, very efficient multithreading implementation exploring concurrency concepts
 - **42-common-core** – My coding beginnings at 42 (with pretty imperfect beginner code) – you can clearly see the evolution and improvement over time
-  - Includes **so_long** (a playable 2D game), **push_swap** (a sorting algorithm you can test – I still want to fix the massive atoi == atoi inefficiency which makes it quite slow), **pipex**, **libft**, **get_next_line** and **ft_printf**
+  - Includes **so_long** (a playable 2D game), **push_swap** (a sorting algorithm you can test – still needs a little fix), **pipex**, **libft**, **get_next_line** and **ft_printf**
 
 ### 🔮 Upcoming
 - **Inception** – Containerized infrastructure with Docker: setting up a full web stack (NGINX, WordPress, MariaDB) from scratch with custom Dockerfiles
